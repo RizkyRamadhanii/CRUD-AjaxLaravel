@@ -1,0 +1,13 @@
+Belajar CRUD Ajax Laravel
+
+- Factories = Digunakan untuk membuat data fake.
+	- create factories
+	- input data fake in factories
+	- running in seeders
+
+- Yajra Datatables = Membuat table agar terdapat searching and pagination
+	- dokumentasi yajra = https://yajrabox.com/docs/laravel-datatables/10.0
+	- Konfigurasi yajra = https://datatables.net/
+	- pasang JQuery = https://releases.jquery.com/
+
+- Jangan lupa setting CSRF Token saat ingin menjalankan CRUD di laravel menggunakan Ajax
